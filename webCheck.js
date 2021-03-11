@@ -1,4 +1,4 @@
-let email = 'patilvilas97@gmail.com'
+let email.firakechetan0@gmail.com'
 let password = '74546845'
     if((email.includes('@gmail.com')) || (email.includes('@yahoo.com'))){
         console.log("The Email is Valid");
